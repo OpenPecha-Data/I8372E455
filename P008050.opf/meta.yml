@@ -1,15 +1,16 @@
-id: opecha:P008050
+id: P008050
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W4CZ45267
   title: ལེའུ་བདུན་མ།
-  volume:
+  author: ''
+  volumes:
     fdc803bfe85a47209724623442404cd7:
       image_group_id: I4CZ45278
       title: Volume 1 of le'u bdun ma/
       volume_number: 1
       total_pages: 218
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: ལེའུ་བདུན་མ།
   author: ''
